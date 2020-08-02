@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Algofocus Technologies</string>
+
+    <string name="web_client_id">xxxxxxxx..place your web client id here</string>
+</resources>
